@@ -28,7 +28,7 @@ GEM
     powerpack (0.1.0)
     rainbow (2.0.0)
     rake (10.0.4)
-    rdiscount (2.1.8)
+    rdiscount (2.2.7.4)
     rest-client (1.7.3)
       mime-types (>= 1.16, < 3.0)
       netrc (~> 0.7)
